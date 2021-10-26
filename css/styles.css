@@ -123,7 +123,7 @@ label {
     position: relative;
     border-radius: 20px;
     overflow: hidden;
-    min-height: 400px;
+    min-height: 450px;
     display: flex;
     align-items: center;
     padding-left: 100px;
@@ -175,11 +175,6 @@ label {
     font-size: 14px;
     line-height: 23px;
 }
-
-
-
-
-
 
 
 .slide-summer {
@@ -412,7 +407,7 @@ label {
 .tabs-content {
     display: flex;
     margin: -15px;
-
+    justify-content: space-between;
 }
 
 .tabs-cart {
@@ -489,6 +484,72 @@ label {
     width: 315px;
 }
 
+
+.our-advantages {
+    margin-top: 100px;
+    margin-bottom: 200px;
+
+}
+
+.our-advantage {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 23px;
+    color: #000000;
+    margin-bottom: 52px;
+
+}
+
+.benefits-cards {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.benefits-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    padding: 23px;
+    max-width: 270px;
+    background: #FFFFFF;
+    border: 1px solid #E9E9E9;
+    box-sizing: border-box;
+    box-shadow: 0 4px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    overflow: hidden;
+
+}
+
+.benefit-img {
+    width: 60px;
+    margin-top: 5px;
+    margin-bottom: 34px;
+}
+
+
+.benefit-title {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+    padding: 0 15px;
+    margin-top: 5px;
+    margin-bottom: 13px;
+}
+
+.benefit-text {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    color: #49494F;
+    margin: 0;
+
+}
+
+
 .footer {
     padding: 40px 0;
     background: #F6F6F6;
@@ -522,11 +583,20 @@ label {
 }
 
 .social-link {
+    width: 28px;
+    height: 28px;
+    background: #C4C4C4;
+    border-radius: 50%;
     margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
-
+.social-telegram {
+    padding: 7px 7px 7px 5px;
+}
 
 
 

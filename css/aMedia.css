@@ -21,8 +21,25 @@
     }
 
     .tabs-cart {
-        flex: 1;
         max-width: calc(50% - 30px);
+        margin: 15px;
+    }
+
+
+    .our-advantages{
+        margin-bottom: 70px;
+    }
+
+    .benefits-cards {
+        flex-wrap: wrap;
+        max-width: 800px;
+        margin: auto;
+    }
+
+    .benefits-card {
+        height: 300px;
+        min-width: 380px;
+        margin: 10px;
     }
 
 }
@@ -37,7 +54,8 @@
         padding: 70px;
 
     }
-    .search-form{
+
+    .search-form {
         width: 360px;
     }
 
