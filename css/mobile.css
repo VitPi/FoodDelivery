@@ -1,0 +1,282 @@
+/*
+
+
+
+
+
+*/
+
+
+@media (max-width: 361px) {
+
+
+    /*   +++++++++++++++    Header  ++++++++      */
+    .container {
+        max-width: 90%;
+    }
+
+
+    .header {
+        /*padding: 0;*/
+        /*margin: 5px 0;*/
+    }
+
+    .logo-image {
+        padding: 0;
+        width: 100px;
+    }
+
+
+    .auth {
+        margin: 0 auto;
+    }
+
+    .login {
+        padding: 8px 14px;
+        font-size: 14px;
+    }
+
+    .shopping-cart {
+        margin: 0;
+        width: 35px;
+        height: 35px;
+    }
+
+    .shopping-cart img {
+        width: 20px;
+    }
+
+    .search-form {
+        width: 80%;
+        margin: 5px auto;
+        padding: 5px;
+
+    }
+
+    /*   +++++++++++++++ the and  Header  ++++++++      */
+    /*=========================================================================================*/
+    /*   +++++++++++++++ Main ++++++++      */
+    .swiper-slide {
+        padding: 10px;
+    }
+
+    .slide {
+        padding: 0;
+    }
+
+    .slide-content {
+        text-align: center;
+        overflow: hidden;
+        max-width: 200px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .slider-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .slide-text {
+        font-size: 13px;
+        line-height: 13px;
+    }
+
+
+    .button-primary {
+        padding: 0 10px;
+        font-size: 14px;
+    }
+
+    .promo {
+        padding-bottom: 0;
+        margin: 0;
+    }
+
+    .card-title {
+        font-size: 16px;
+
+    }
+
+    .card-description {
+        font-size: 14px;
+
+    }
+
+
+    .card-price {
+        font-size: 18px;
+    }
+
+    .card-delivery {
+        font-size: 13px;
+    }
+
+    .button {
+        font-size: 14px;
+        padding: 0 18px;
+    }
+
+
+    .delivery-week {
+        margin-top: 20px;
+        padding: 0;
+
+    }
+
+    .section-title {
+        font-size: 23px;
+        line-height: 23px;
+        text-align: center;
+    }
+
+    .delivery-tag {
+        font-size: 12px;
+    }
+
+
+    .tabs {
+        align-items: center;
+        justify-content: space-evenly;
+
+    }
+
+    .tabs-link {
+        font-size: 13px;
+        margin-right: 0px;
+
+    }
+
+    .tabs-content {
+        margin: 0;
+    }
+
+    .button-center {
+        display: block;
+        margin: 14px auto 0;
+        width: 165px;
+    }
+
+    .category {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .our-advantages {
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }
+
+    .benefits-cards {
+        padding: 10px;
+        justify-content: center;
+    }
+
+
+    .benefits-card {
+        min-width: 250px;
+
+    }
+
+    /*   +++++++++++++++ the and  Main  ++++++++      */
+    /*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    /*   +++++++++++++++ Footer  ++++++++      */
+    .footer {
+        padding: 10px;
+
+    }
+
+    .footer-wrapper {
+        justify-content: space-between;
+
+    }
+
+    .footer-logo {
+        width: 100px;
+        margin: 0;
+    }
+
+    .footer-nav {
+        display: flex;
+
+        flex-direction: column;
+        /*justify-content: center;*/
+        /*align-items: center;*/
+
+
+    }
+
+
+    .footer-link {
+        font-size: 10px;
+        margin: 0;
+        line-height: 2;
+        display: inline-block;
+    }
+
+
+    .social-links {
+        margin: 0;
+    }
+
+    .social-link {
+        margin: 0 5px 0 0;
+    }
+
+
+    .footer-social-img {
+
+
+    }
+
+
+    /*   +++++++++++++++ the and  Footer  ++++++++      */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
